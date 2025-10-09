@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank Loans application"
+  message: "Welcome to EazyBank Loans Production application"
   contactDetails:
     name: "Mar Henry - CEO"
     email: "{cipher}15cce0a0e5dc37f448d66c9c5d4154dbc9758288aa3ba86e7236caee67044f12686d9d1481bd2fb2d6e23fdd909de52e"
