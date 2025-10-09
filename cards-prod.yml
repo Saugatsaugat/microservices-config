@@ -5,7 +5,7 @@ cards:
   message: "Welcome to EazyBank application prod Cards"
   contactDetails:
     name: "Mar Henry - CEO"
-    email: "mark.henry@eazybank.com"
+    email: "{cipher}15cce0a0e5dc37f448d66c9c5d4154dbc9758288aa3ba86e7236caee67044f12686d9d1481bd2fb2d6e23fdd909de52e"
   onCallSupport:
     - (111) 111-1111
     - (222) 222-2222
