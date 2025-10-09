@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank application"
   contactDetails:
     name: "Mar Henry - CEO"
-    email: "dc76116d0c7bbf85835104d241645994ec6d4d08e03fae6a2ca353844994694ac16a6a63770babf68c2a60a35b349304"
+    email: "{cipher}dc76116d0c7bbf85835104d241645994ec6d4d08e03fae6a2ca353844994694ac16a6a63770babf68c2a60a35b349304"
   onCallSupport:
     - (111) 111-1111
     - (222) 222-2222
